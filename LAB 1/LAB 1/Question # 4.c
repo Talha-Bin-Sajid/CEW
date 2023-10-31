@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 //QUES 4
 
@@ -28,4 +28,4 @@ int main()
     scanf("%d",&num);
     printf("Binary equivalent :%d",decimal_to_binary(num));
     return 0;
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 //QUES 1
 int main()
@@ -13,4 +13,4 @@ int main()
    scanf("%f",&wage_rate);
    printf("Total salary of an employee having employee ID %d is %.2f",emp_ID,hours_worked*wage_rate);
     return 0;
-}*/
+}
