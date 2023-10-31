@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 //QUES 2
 
@@ -13,4 +13,4 @@ int main()
     printf("Perimeter of Rectangle = %.2f UNITS\n",(height+width)*2);
     printf("Area of Rectangle = %.2f SQUARE UNITS",height*width);
     return 0;
-}*/
+}
