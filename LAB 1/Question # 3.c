@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 //QUES 3
 
@@ -19,5 +19,5 @@ int main()
 
     }
     return 0;
-}*/
+}
 
