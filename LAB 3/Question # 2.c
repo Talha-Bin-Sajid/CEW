@@ -5,7 +5,7 @@
 
 int main()
 {
-    char string[]="Samad";
+    char string[]="TALHA";
     char*ptr=string;
     printf("The reverse string is ");
     for (int i=strlen(ptr);i>=0;i--){
